@@ -1,5 +1,6 @@
 module.exports = {
     title: 'TDYBLog',
+    base: '/vuepress-starter/',
     description: '简单的记录技术',
     themeConfig: {
         nav: [
